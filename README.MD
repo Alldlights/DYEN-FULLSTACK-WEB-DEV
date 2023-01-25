@@ -9,4 +9,5 @@
 6. FUNDAMENTAL CSS COMPREHENSION: Url(https://alldlights.github.io/DYEN-FULLSTACK-WEB-DEV/Assesment_6/)
 7. CREATING FANCY LETTERHEADED PAPER: Url(https://alldlights.github.io/DYEN-FULLSTACK-WEB-DEV/Assement_7/)
 8. A COOL-LOOKING BOX: Url(https://alldlights.github.io/DYEN-FULLSTACK-WEB-DEV/Assesment_8/)
-9. 
+9. TYPESETTING A COMMUNITY SCHOOL HOMEPAGE: Url(https://alldlights.github.io/DYEN-FULLSTACK-WEB-DEV/Assesment_9/)
+10. 
