@@ -1,0 +1,33 @@
+html{
+    font-family: sans-serif;
+}
+
+p{
+ /* sizing and positioning*/   
+   width: 200px;
+   margin: auto;
+   line-height: 8;
+   height: 150px; 
+
+   /* text */
+   font-size: 1.1rem; /* I know this size becuase 
+   i checked the Devtool to know the root font to be 16px
+   which is equivalent to 1.1rem */
+
+   text-align: center;
+   color: #fff;
+   text-shadow: 1px 1px 1px black;
+   
+   /* border */
+   border-radius: 10px;
+   border: 1px solid #990000;
+
+   /* background */
+   background-color: red;
+   background-image: linear-gradient(to top left,
+   rgba(0,0,0,0.2), rgba(0,0,0,0.2) 30%, rgba(0,0,0,0));
+
+box-shadow: inset 2px 2px 3px rgba(225,225,225,0.6),
+            inset -2px -2px 3px rgba(0,0,0,0.6),
+            2px 2px 5px black;
+}

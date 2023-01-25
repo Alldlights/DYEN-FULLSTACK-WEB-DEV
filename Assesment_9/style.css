@@ -1,0 +1,166 @@
+/* General setup */
+
+@font-face {
+    font-family: "Marquis Serif";
+    src: url("./webfontkit-20230118-174814/marquisserifdemo-d9vyv-webfont.woff2") format("woff2"), 
+    url("./webfontkit-20230118-174814/marquisserifdemo-d9vyv-webfont.woff")
+        format("woff");
+    font-weight: normal;
+    font-style: normal;
+  }
+
+@font-face{
+    font-family: "Vera Serif";
+    src: url("./webfontkit-20230118-174814/veraserif-webfont.woff2")
+    format("woff2"), url("./webfontkit-20230118-174814/veraserif-webfont.woff")
+    format("woff");
+}
+
+
+
+*{
+    box-sizing: border-box;
+}
+
+
+
+body{
+    font-size: 10px;
+    margin: auto;
+    min-width: 1000px;
+    max-width: 1400px;
+}
+
+/* Layout */
+
+section{
+    float: left;
+    width: 50%;
+}
+
+aside{
+    float: left;
+    width: 30%;
+}
+
+nav{
+    float: left;
+    width: 20%;
+}
+
+footer{
+    clear: both;
+}
+
+header, section, aside, nav, footer {
+    padding: 20px;
+}
+
+/* header and footer */
+
+header, footer{
+    border-top: 5px solid #a66;
+    border-bottom: 5px solid #a66;
+}
+
+/* My Code starts here */
+
+h1, 
+h2{
+    font-family: "Marquis Serif", "Times New Roman",
+    serif ;
+}
+
+p{
+    font-family: "Vera Serif", serif;
+    word-spacing: 0.1rem;
+}
+
+h1{
+    font-size: 2.2rem;
+    letter-spacing: 0.1rem;
+}
+
+h2{
+    font-size: 1.2rem;
+    letter-spacing: 0.12rem;
+}
+
+ul,
+ol,
+p{
+    font-size: 1.2rem;
+    line-height: 1.8;
+}
+ul,
+ol{
+    font-family: "Vera Serif";
+}
+
+/* links */
+a{
+ outline: none;
+ padding: 2px 1px 0;
+}
+
+a:link{
+color: darkblue;
+text-decoration: none;
+}
+a:visited{
+    color: rgb(81, 81, 155);
+}
+a:focus{
+   background: darksalmon;
+  text-decoration: none;
+  
+}
+
+
+a:hover{
+background: lightblue;
+color: red;
+}
+
+a:active{
+    background: darksalmon;
+    color: brown;
+}
+
+a[href^="http"] {
+    background: url(./img/external-link-52.png)
+    no-repeat 100% 0;
+    background-size: 16px 16px;
+    padding-right: 18.5px;
+}
+
+header h1{
+    text-align: center;
+}
+
+aside ul{
+    list-style: square;
+}
+
+nav li{
+    text-align: center;
+    border: 1px #a66 solid;
+    width: 100%;
+    padding: 25px 0px;
+    list-style: none;
+    margin-bottom: 20px;
+}
+
+nav li:last-child{
+    margin-bottom: 0;
+}
+
+nav a{
+    text-decoration: none;
+    font-size: 1.6rem;
+}
+
+nav ul{
+    padding-left: 0px;
+    margin: 0px;
+}
