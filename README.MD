@@ -14,4 +14,4 @@
 11. SILLY STORY GENERATOR: Url(https://alldlights.github.io/DYEN-FULLSTACK-WEB-DEV/Assesment_11/)
 12. IMAGE GALLERY: Url(https://alldlights.github.io/DYEN-FULLSTACK-WEB-DEV/Assesment_12/)
 13. ADDING FEATURES TO BOUNCING BALLS DEMO: Url(https://alldlights.github.io/DYEN-FULLSTACK-WEB-DEV/Assesment_13/)
-14. 
+14. SEQUENCING ANIMATIONS: Url(https://alldlights.github.io/DYEN-FULLSTACK-WEB-DEV/Assesment_14/)
