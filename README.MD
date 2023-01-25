@@ -12,4 +12,5 @@
 9. TYPESETTING A COMMUNITY SCHOOL HOMEPAGE: Url(https://alldlights.github.io/DYEN-FULLSTACK-WEB-DEV/Assesment_9/)
 10. FUNDAMENTAL LAYOUT COMPREHENSION: Url(https://alldlights.github.io/DYEN-FULLSTACK-WEB-DEV/Assesment_10/)
 11. SILLY STORY GENERATOR: Url(https://alldlights.github.io/DYEN-FULLSTACK-WEB-DEV/Assesment_11/)
-12. 
+12. IMAGE GALLERY: Url(https://alldlights.github.io/DYEN-FULLSTACK-WEB-DEV/Assesment_12/)
+13. 
