@@ -7,3 +7,4 @@
 3. MOZILLA FLASH PAGE: Url(https://alldlights.github.io/DYEN-FULLSTACK-WEB-DEV/Assesment_3/)
 4. STRUCTURING PLANET DATA: Url(https://alldlights.github.io/DYEN-FULLSTACK-WEB-DEV/Assesment_4/)
 5. STYLING A BIOGRAPHY PAGE: Url(https://alldlights.github.io/DYEN-FULLSTACK-WEB-DEV/Assesment_5/)
+FUNDAMENTAL CSS COMPREHENSION: Url(https://alldlights.github.io/DYEN-FULLSTACK-WEB-DEV/Assesment_6/)
